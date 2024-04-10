@@ -1,17 +1,14 @@
 # The KaizoRing Challenge
 
-The KaizoRing challenge is a [Pokémon Randomizer](https://www.nexusmods.com/eldenring/mods/428)
-Challenge run created by [Iateyourpie](https://www.twitch.tv/iateyourpie). Designed to make experiencing the randomizer
-fun and challenging, while taking away the wild Pokémon grind that come with some other challenges. It was originally
-made for Fire Red / Leaf Green but the rules can be applied/adjusted for other games as well. If you're interested to
-find out more about IronMon, join our [Discord community](https://discord.gg/jFPYsZAhjX)!
+The KaizoRing challenge is a [Elden Ring Randomizer](https://www.nexusmods.com/eldenring/mods/428)
+Challenge run created by Distorbed. Designed to make experiencing the game in a
+more paunful and challenging way. It was originally made for pokemon and called [The IronMON challenge](https://gist.github.com/valiant-code/adb18d248fa0fae7da6b639e2ee8f9c1)
+but the rules have been adjusted for Elden Ring. If you're interested to
+find out more about IronMon, join there discord [Discord community](https://discord.gg/jFPYsZAhjX)!
 
-IronMon has varying levels of difficulties, to keep it more approachable but also provide the toughest challenge
-possible for those who want it.
+KaizoRing is very difficult and is intended for the extremely skilled Elden Ring player but can be played by the ordinary player
 
-Jump to: [Ultimate](#ultimate-ironmon-ruleset) | [Kaizo](#kaizo-ironmon-ruleset) | [Survival](#survival-ironmon-ruleset)
-
-## Standard IronMon Ruleset
+## KaizoRing ruleset
 
 | Rule                          | Details                                                                                                                                                                                                                                                                                                                                                                                       | Notes                                                                                                                                                                  |
 |-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
